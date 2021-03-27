@@ -1,6 +1,7 @@
 This script was created to convert multiple .wav files to .mp3
 
 Dependencies: ffmpeg, lame
+
 Dependencies can be installed via home brew. https://brew.sh
 brew install ffmpeg
 brew install lame
